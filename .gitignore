@@ -1,0 +1,9 @@
+# .gitignore
+__pycache__/
+*.py[cod]
+*$py.class
+data/pdfs/*
+data/outputs/*
+.env
+venv/
+.vscode/
